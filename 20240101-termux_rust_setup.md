@@ -46,7 +46,7 @@ Depending on whether or not you have `rustup` installed you may run into issues 
 ```
 ~ $ rustc
 error: rustup could not choose a version of rustc to run, because one wasn't specified explicitly, and no default configured.
-help" run 'rustup default stable' to download the latest stable release of Rust and set it as your default toolchain.
+help: run 'rustup default stable' to download the latest stable release of Rust and set it as your default toolchain.
 ```
 
 You will quickly notice that the triple `aarch64-linux-android` is not supported.
