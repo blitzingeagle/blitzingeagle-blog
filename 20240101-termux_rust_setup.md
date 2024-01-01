@@ -22,7 +22,7 @@ Your Rust compiler should be ready to be used. Create any simple "Hello World!" 
 ```rust
 fn
 main() {
-    println("Hello World!");
+    println!("Hello World!");
 }
 ```
 
