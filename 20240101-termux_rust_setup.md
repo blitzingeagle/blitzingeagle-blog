@@ -28,13 +28,13 @@ main() {
 
 Then compile the program.
 
-```sh
+```
 rustc HelloWorld.rs
 ```
 
 If successful you will find `./HelloWorld` which you can execute.
 
-```sh
+```
 ~ $ ./Hello World
 Hello World!
 ```
