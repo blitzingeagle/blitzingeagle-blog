@@ -10,3 +10,18 @@ In Unix-like systems (including Linux), DLLs are referred to as Shared Objects (
 
 ## Creating DLL in C++
 
+### Directory Structure
+
+To create a DLL with C++, structure your C++ project similar to this example.
+
+```
+project/
+|-- src/
+|   |-- example.cpp
+|-- include/
+|   |-- example.h
+|-- CMakeLists.txt
+```
+
+
+
